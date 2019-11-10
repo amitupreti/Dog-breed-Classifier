@@ -9,9 +9,9 @@ Download the human dataset. https://s3-us-west-1.amazonaws.com/udacity-aind/dog-
 
 ### Here we implement CNN to predict dog breed and at the end make a function that will detect between human and a dog and show top 3 prediction.
 
-In first part, We build CNN from Scratch with pytorch. I have tried to imitate the VGG16 model.
+In first part, We build CNN from Scratch with pytorch. I have tried to imitate the VGG16 model.(accuracy 12%)
 
-In the second part. We used VGG16 trained model for transfer learning to predict the dog breeds.
+In the second part. We used VGG16 trained model for transfer learning to predict the dog breeds.(accuracy 75%)
 
 ###Sample output
 
