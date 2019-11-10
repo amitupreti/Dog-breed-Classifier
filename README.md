@@ -1,5 +1,5 @@
 # Dog-breed-Classifier
-This is a project 2 in course Deep learning Nano Degree by udacity.
+This is  project 2 in course Deep learning Nano Degree by udacity.
 
 Download the dog dataset. https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 
