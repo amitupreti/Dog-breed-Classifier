@@ -14,6 +14,8 @@ In first part, We build CNN from Scratch with pytorch. I have tried to imitate t
 In the second part. We used VGG16 trained model for transfer learning to predict the dog breeds.
 
 ###Sample output
+
+
  ![Sample image dog](https://snipboard.io/Sh2WAe.jpg "Sample Image Dog")
  
  
