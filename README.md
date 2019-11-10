@@ -12,3 +12,12 @@ Download the human dataset. https://s3-us-west-1.amazonaws.com/udacity-aind/dog-
 In first part, We build CNN from Scratch with pytorch. I have tried to imitate the VGG16 model.
 
 In the second part. We used VGG16 trained model for transfer learning to predict the dog breeds.
+
+###Sample output
+ ![Sample image dog](https://snipboard.io/Sh2WAe.jpg "Sample Image Dog")
+ 
+ 
+ ![Sample image car](https://snipboard.io/oDXvQ3.jpg "Sample Image Car)"
+ 
+ 
+ ![sample Image human](https://snipboard.io/sqcjrN.jpg "Sample Image Human")
