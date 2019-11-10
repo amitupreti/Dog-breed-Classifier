@@ -19,7 +19,7 @@ In the second part. We used VGG16 trained model for transfer learning to predict
  ![Sample image dog](https://snipboard.io/Sh2WAe.jpg "Sample Image Dog")
  
  
- ![Sample image car](https://snipboard.io/oDXvQ3.jpg "Sample Image Car)"
+ ![Sample image car](https://snipboard.io/oDXvQ3.jpg "Sample Image Car")
  
  
  ![sample Image human](https://snipboard.io/sqcjrN.jpg "Sample Image Human")
